@@ -1,0 +1,736 @@
+#VRML V2.0 utf8
+
+#Created with V-Realm Builder v2.0
+#Integrated Data Systems Inc.
+#www.ids-net.com
+
+
+SpotLight {
+	location	0 30 0
+	radius	300
+}
+DEF wave_m1 Transform {
+	translation	-0.5 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_m2 Transform {
+	translation	-1 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_m3 Transform {
+	translation	-2 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_m4 Transform {
+	translation	-3 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_1 Transform {
+	translation	0.5 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_2 Transform {
+	translation	1 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_3 Transform {
+	translation	2 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_4 Transform {
+	translation	3 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_5 Transform {
+	translation	4 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_6 Transform {
+	translation	5 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_7 Transform {
+	translation	6 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_8 Transform {
+	translation	7 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_9 Transform {
+	translation	8 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_10 Transform {
+	translation	9 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_11 Transform {
+	translation	10 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_12 Transform {
+	translation	11 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_13 Transform {
+	translation	12 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF wave_14 Transform {
+	translation	13 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.0909828 0.0257368 0.8
+				emissiveColor	0.101194 0.187442 0.8
+				specularColor	0.64 0.64 0.64
+			}
+
+		}
+
+		geometry	Sphere {
+			radius	0.1
+		}
+
+	}
+}
+DEF cable Transform {
+	translation	2.5 12.5 0
+	rotation	0 0 -1  0.785398
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.8 0.474502 0.215884
+				emissiveColor	0.7 0.135738 0.0673831
+				specularColor	0.5 0.162657 0.152911
+			}
+
+		}
+
+		geometry	Cylinder {
+			height	7
+			radius	0.01
+		}
+
+	}
+}
+DEF UAV2 Transform {
+	translation	5 15 0
+	rotation	0 0 -1  0.523599
+	children [ 
+	    DEF motor_f1 Transform {
+		    translation	0.4 0.035 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.8 0.251176 0.529056
+					    emissiveColor	0.749867 0.411923 0.8
+					    specularColor	0.7 0.314021 0.564849
+				    }
+
+			    }
+
+			    geometry	Cylinder {
+				    height	0.05
+				    radius	0.05
+				    side	TRUE
+				    bottom	TRUE
+			    }
+
+		    }
+	    }
+
+	    DEF motor_r1 Transform {
+		    translation	-0.4 0.035 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.8 0.251176 0.529056
+					    emissiveColor	0.749867 0.411923 0.8
+					    specularColor	0.7 0.314021 0.564849
+				    }
+
+			    }
+
+			    geometry	Cylinder {
+				    height	0.05
+				    radius	0.05
+				    side	TRUE
+				    bottom	TRUE
+			    }
+
+		    }
+	    }
+
+	    DEF rotor_f1 Transform {
+		    translation	0.4 0.1 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.220926 0.32155 0.8
+					    emissiveColor	0.379384 0.289441 0.9
+					    specularColor	0.221722 0.157637 0.31
+				    }
+
+			    }
+
+			    geometry	Cylinder {
+				    height	0.02
+				    radius	0.3
+				    side	TRUE
+				    bottom	TRUE
+			    }
+
+		    }
+	    }
+
+	    DEF body Transform {
+		    translation	0 0 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.220926 0.32155 0.8
+					    emissiveColor	0.379384 0.289441 0.9
+					    specularColor	0.221722 0.157637 0.31
+				    }
+
+			    }
+
+			    geometry	Cylinder {
+				    height	0.08
+				    radius	0.15
+				    side	TRUE
+				    bottom	TRUE
+			    }
+
+		    }
+	    }
+
+	    DEF rotor_r1 Transform {
+		    translation	-0.4 0.1 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.220926 0.32155 0.8
+					    emissiveColor	0.379384 0.289441 0.9
+					    specularColor	0.221722 0.157637 0.31
+				    }
+
+			    }
+
+			    geometry	Cylinder {
+				    height	0.02
+				    radius	0.3
+				    side	TRUE
+				    bottom	TRUE
+			    }
+
+		    }
+	    }
+
+	    DEF axes1 Transform {
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.8 0.372694 0.682148
+					    emissiveColor	0.9 0.558348 0.864389
+				    }
+
+			    }
+
+			    geometry	Box {
+				    size	0.9 0.02 0.02
+			    }
+
+		    }
+	    }
+	]
+}
+DEF floor Transform {
+	translation	0 9 0
+	children [ 
+	    DEF floor Transform {
+		    translation	0 0 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.195037 0.768804 0.8
+					    emissiveColor	0.82 0.82 0.82
+					    specularColor	1 1 1
+				    }
+
+				    texture	DEF Water_Wavy ImageTexture {
+					    url	"texture/Water_3.gif"
+				    }
+
+			    }
+
+			    geometry	Box {
+				    size	50 0.1 50
+			    }
+
+		    }
+	    }
+
+	    DEF floor Transform {
+		    translation	50 0 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.195037 0.768804 0.8
+					    emissiveColor	0.82 0.82 0.82
+					    specularColor	1 1 1
+				    }
+
+				    texture	DEF Water_Wavy ImageTexture {
+					    url	"texture/Water_3.gif"
+					    repeatS	TRUE
+					    repeatT	TRUE
+				    }
+
+			    }
+
+			    geometry	Box {
+				    size	50 0.1 50
+			    }
+
+		    }
+	    }
+
+	    DEF floor Transform {
+		    translation	100 0 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.195037 0.768804 0.8
+					    emissiveColor	0.82 0.82 0.82
+					    specularColor	1 1 1
+				    }
+
+				    texture	DEF Water_Wavy ImageTexture {
+					    url	"texture/Water_3.gif"
+					    repeatS	TRUE
+					    repeatT	TRUE
+				    }
+
+			    }
+
+			    geometry	Box {
+				    size	50 0.1 50
+			    }
+
+		    }
+	    }
+
+	    DEF floor Transform {
+		    translation	150 0 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.195037 0.768804 0.8
+					    emissiveColor	0.82 0.82 0.82
+					    specularColor	1 1 1
+				    }
+
+				    texture	DEF Water_Wavy ImageTexture {
+					    url	"texture/Water_3.gif"
+					    repeatS	TRUE
+					    repeatT	TRUE
+				    }
+
+			    }
+
+			    geometry	Box {
+				    size	50 0.1 50
+			    }
+
+		    }
+	    }
+
+	    DEF floor Transform {
+		    translation	200 0 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.195037 0.768804 0.8
+					    emissiveColor	0.82 0.82 0.82
+					    specularColor	1 1 1
+				    }
+
+				    texture	DEF Water_Wavy ImageTexture {
+					    url	"texture/Water_3.gif"
+					    repeatS	TRUE
+					    repeatT	TRUE
+				    }
+
+			    }
+
+			    geometry	Box {
+				    size	50 0.1 50
+			    }
+
+		    }
+	    }
+
+	    DEF floor Transform {
+		    translation	250 0 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.195037 0.768804 0.8
+					    emissiveColor	0.82 0.82 0.82
+					    specularColor	1 1 1
+				    }
+
+				    texture	DEF Water_Wavy ImageTexture {
+					    url	"texture/Water_3.gif"
+					    repeatS	TRUE
+					    repeatT	TRUE
+				    }
+
+			    }
+
+			    geometry	Box {
+				    size	50 0.1 50
+			    }
+
+		    }
+	    }
+
+	    DEF floor Transform {
+		    translation	300 0 0
+		    children Shape {
+			    appearance	Appearance {
+				    material	Material {
+					    ambientIntensity	0.2
+					    diffuseColor	0.195037 0.768804 0.8
+					    emissiveColor	0.82 0.82 0.82
+					    specularColor	1 1 1
+				    }
+
+				    texture	DEF Water_Wavy ImageTexture {
+					    url	"texture/Water_3.gif"
+					    repeatS	TRUE
+					    repeatT	TRUE
+				    }
+
+			    }
+
+			    geometry	Box {
+				    size	50 0.1 50
+			    }
+
+		    }
+	    }
+	]
+}
+DEF Viewpoint_1_uav Viewpoint {
+	fieldOfView	0.785398
+	jump	TRUE
+	position	4 13 9
+	description	""
+}
+DEF Viewpoint_2_buoy Viewpoint {
+	position	4 13 9
+}
+DEF Buoy Transform {
+	translation	0 10 0
+	children Shape {
+		appearance	Appearance {
+			material	Material {
+				ambientIntensity	0.2
+				diffuseColor	0.8 0.435132 0.00736418
+				emissiveColor	0.8 0.58981 0.00333891
+				specularColor	0.94898 0.897959 1
+			}
+
+		}
+
+		geometry	Box {
+			size	0.8 0.25 0.25
+		}
+
+	}
+}
+Background {
+	groundAngle	[ 0.9, 1.5, 1.57 ]
+	groundColor	[ 0.0808909 0.326917 0.8,
+			  0.0669388 0.153163 0.82,
+			  0.484888 0.82 0.804013,
+			  0.67 0.572852 0.559761 ]
+	skyAngle	[ 0.1, 1.2, 1.57 ]
+	skyColor	[ 0.76238 0.8 0.1427,
+			  0.277798 0.219779 0.7,
+			  0.577943 0.658183 0.7,
+			  0.60094 0.662637 0.69 ]
+}

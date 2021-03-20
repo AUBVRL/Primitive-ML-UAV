@@ -10,3 +10,20 @@ A MATLAB/Simulink implementation of the system proposed in "A Tethered Quadrotor
 # References
 
 [1] A. Kourani and N. Daher, "A Tethered Quadrotor UAV−Buoy System for Marine Locomotion", _ICRA_, 2021. (accepted).
+
+# Prerequisites
+MATLAB/Simulink software v2018a or higher.
+
+# How to use
+1. ... <br />
+2. ... <br />
+
+
+# Authors
+* **Ahmad Kourani** - *inital work* - [KouraniMEKA](https://github.com/KouraniMEKA).
+* **Naseem Daher**
+* 
+# License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/KouraniMEKA/Active-Pneumatic-Damper-Adaptive-Control/blob/master/LICENSE) file for details.
+ 
+

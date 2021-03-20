@@ -7,9 +7,6 @@ A MATLAB/Simulink implementation of the system proposed in "A Tethered Quadrotor
   Planar model of a quadrotor UAV pulling a floating buoy through a tether [1].
 </p>
 
-# References
-
-[1] A. Kourani and N. Daher, "A Tethered Quadrotor UAV−Buoy System for Marine Locomotion", _ICRA_, 2021. (accepted).
 
 # Prerequisites
 MATLAB/Simulink software v2018a or higher.
@@ -22,7 +19,10 @@ MATLAB/Simulink software v2018a or higher.
 # Authors
 * **Ahmad Kourani** - *inital work* - [KouraniMEKA](https://github.com/KouraniMEKA).
 * **Naseem Daher**
-* 
+
+# References
+[1] A. Kourani and N. Daher, "A Tethered Quadrotor UAV−Buoy System for Marine Locomotion", _ICRA_, 2021. (accepted).
+
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/KouraniMEKA/Active-Pneumatic-Damper-Adaptive-Control/blob/master/LICENSE) file for details.
  

@@ -18,7 +18,7 @@ MATLAB/Simulink software v2018a or higher.
 
 # Authors
 * **Ahmad Kourani** - *initial work* - [KouraniMEKA](https://github.com/KouraniMEKA).
-* **Naseem Daher**
+* **Naseem Daher** - [naseemdaher](https://github.com/naseemdaher).
 
 # References
 [1] [A. Kourani and N. Daher, "A Tethered Quadrotor UAV−Buoy System for Marine Locomotion", _ICRA_, 2021. (accepted).](https://www.researchgate.net/publication/350621096_A_Tethered_Quadrotor_UAV-Buoy_System_for_Marine_Locomotion)
